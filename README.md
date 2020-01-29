@@ -4,7 +4,8 @@
 
 * Fork this Repository
 * Clone your forked repo
-* Complete the activity Below
+* Making frequent commits, complete the activity Below
+    * Set a commit timer if you need to!
 * Push your solution to your repo
 * Submit a Pull Request from your repo to this repo
     * Put your name in your PR!
