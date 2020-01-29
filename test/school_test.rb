@@ -74,10 +74,5 @@ class SchoolTest < Minitest::Test
 
     assert_equal test_time, school1.convert_end_time_to_clock_time
   end
-  
-
-
-
-
 
 end

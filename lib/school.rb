@@ -1,10 +1,11 @@
 class School
-  attr_reader :start_time, :hours_in_school_day, :student_names
+  attr_accessor :start_time, :hours_in_school_day, :student_names, :end_time
 
   def initialize(start_time, hours_in_school_day)
     @start_time = start_time
     @hours_in_school_day = hours_in_school_day
     @student_names = []
+    @end_time
   end
 
   def add_student_name(student)
@@ -30,7 +31,11 @@ class School
     @student_names.collect { |name| name.capitalize }
   end
 
-  
+  def convert_end_time_to_clock_time
+    @end_time
+  end
+
+
 
 
 end
