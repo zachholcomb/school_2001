@@ -14,7 +14,7 @@
 
 For iteration 1, we have created all of the tests you will need - unskip tests one by one, making each pass before moving on to the next test.  The tests will model the following interaction pattern:
 
-```ruby
+```pry
 pry(main)> require './lib/school'
 #=> true
 
