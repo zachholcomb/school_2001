@@ -3,7 +3,7 @@
 ## Instructions
 
 * Fork this Repository
-* Clone your forked repo
+* **Clone _your_ forked repo**
 * Making frequent commits, complete the activity Below
     * Set a commit timer if you need to!
 * Push your solution to your repo
