@@ -5,7 +5,6 @@ require './lib/school'
 class SchoolTest < Minitest::Test
   #Iteration 1 Tests:
   def test_it_exists
-    skip
     school = School.new('9:00', 7)
 
     assert_instance_of School, school
